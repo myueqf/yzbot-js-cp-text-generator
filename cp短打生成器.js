@@ -1,6 +1,6 @@
 import { segment } from "oicq";
 import plugin from '../../lib/plugins/plugin.js'
-
+/**https://github.com/myueqf/yzbot-js-cp-text-generator*/
 export class cp extends plugin {
   constructor () {
     super({
